@@ -20,7 +20,7 @@ I'm a 21-year-old student at Tomsk State University, majoring in Software Engine
     <a href="https://html.spec.whatwg.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"></a>
   </p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarkWight&layout=compact" alt="Top Languages" />
+      
     </a>
 </div>
 
