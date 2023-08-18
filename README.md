@@ -23,8 +23,8 @@
 <div align="center">
   <h2>Languages I Want to Learn</h2>
   <p>
-    <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"></a> Java |
-    <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a> Python
+    <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"></a>
+    <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
   </p>
 </div>
 
@@ -41,7 +41,6 @@
     <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"></a>
     <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"></a>
     <a href="https://www.gimp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40"></a>
-    <a href="https://openai.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/chatgpt/chatgpt-original.svg" alt="ChatGPT" width="40" height="40"></a>
   </p>
 </div>
 
