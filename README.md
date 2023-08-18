@@ -22,6 +22,26 @@ I'm a 21-year-old student at Tomsk State University, majoring in Software Engine
 </div>
 
 <div align="center">
+  <h2>Tools and Software I Use</h2>
+  <p>
+    <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"></a>
+    <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"></a>
+    <a href="https://developer.apple.com/xcode/"><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"></a>
+    <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android Studio" width="40" height="40"></a>
+        <a href="https://unity.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity Engine" width="40" height="40"></a>
+        <a href="https://www.unrealengine.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"></a>
+    <a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"></a>
+    <a href="https://www.adobe.com/products/xd.html"><img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="Adobe XD" width="40" height="40"></a>
+    <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premier Pro" width="40" height="40"></a>
+        <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"></a>
+        <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"></a>
+    <a href="https://www.autodesk.com/products/maya/overview"><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" alt="Maya" width="40" height="40"></a>
+    <a href="https://www.blender.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"></a>
+    <a href="https://www.gimp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40"></a>  
+  </p>
+</div>
+
+<div align="center">
   <h2>Languages I Want to Learn</h2>
   <p>
     <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"></a>
@@ -30,18 +50,13 @@ I'm a 21-year-old student at Tomsk State University, majoring in Software Engine
 </div>
 
 <div align="center">
-  <h2>Tools and Software I Use</h2>
-  <p>
-    <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"></a>
-    <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"></a>
-    <a href="https://developer.apple.com/xcode/"><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"></a> 
-    <a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"></a>
-    <a href="https://www.adobe.com/products/xd.html"><img src="https://github.com/devicons/devicon/blob/master/icons/adobexd/adobexd-plain.svg" alt="Adobe XD" width="40" height="40"></a>
-    <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" alt="Premier Pro" width="40" height="40"></a>
-    <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"></a>
-    <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"></a>
-    <a href="https://www.gimp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40"></a>
-  </p>
+  <h2 align="center">Frameworks and Tools I Plan to Learn</h2>
+  <ul align="left">
+    <li><a href="https://realm.io/">Realm</a> - Mobile database and synchronization platform.</li>
+    <li><a href="https://developer.apple.com/documentation/coredata">Core Data</a> - Apple's framework for managing the model layer of your application.</li>
+    <li><a href="https://dotnet.microsoft.com/apps/aspnet">ASP.NET</a> - Microsoft's platform for building web applications.</li>
+    <li><a href="https://www.rhino3d.com/">Rhino 7</a> - 3D modeling and design software.</li>
+  </ul>
 </div>
 
 <div align="center">
