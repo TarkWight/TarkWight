@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Greetings, I'm Arsentiy</h1>
-  <h3>Software engineering student</h3>
+  <h3>Software Engineering Student</h3>
 </div>
 
 ## About Me
- I'm a 21-year-old student at Tomsk State University, majoring in Software Engineering. Currently exploring iOS and web development while also teaching C++ programming.
+I'm a 21-year-old student at Tomsk State University, majoring in Software Engineering. Currently exploring iOS and web development while also teaching C++ programming.
 
 <div align="center">
   <h2>Languages I Use</h2>
@@ -13,8 +13,9 @@
     <a href="http://www.cplusplus.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></a>
     <a href="https://swift.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"></a>
     <a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"></a>
+    <a href="https://www.ruby-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"></a>
     <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"></a>
     <a href="https://html.spec.whatwg.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"></a>
   </p>
@@ -27,7 +28,6 @@
     <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
   </p>
 </div>
-
 
 <div align="center">
   <h2>Tools and Software I Use</h2>
@@ -44,7 +44,11 @@
   </p>
 </div>
 
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=TarkWight&theme=nord" alt="GitHub Streak" />
+  </a>
+</div>
 
 ## Contact
-Свяжитесь со мной через [Telegram](https://t.me/Arsentiy_Gonda) или мой электронный адрес: arsentiy.gonda@gmail.com.
+Feel free to reach out to me on [Telegram](https://t.me/Arsentiy_Gonda) or via email at arsentiy.gonda@gmail.com.
