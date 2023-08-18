@@ -32,21 +32,23 @@
   </p>
 </div>
 
+
 <div align="center">
   <h2>Tools and Software I Use</h2>
   <p>
-    <a href="https://openai.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/chatgpt/chatgpt-original.svg" alt="ChatGPT" width="40" height="40"></a> ChatGPT |
-    <a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"></a> Photoshop |
-    <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"></a> Visual Studio |
-    <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"></a> VSCode |
-    <a href="https://developer.apple.com/xcode/"><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"></a> Xcode |
-    <a href="https://www.adobe.com/products/xd.html"><img src="https://github.com/devicons/devicon/blob/master/icons/adobexd/adobexd-plain.svg" alt="Adobe XD" width="40" height="40"></a> Adobe XD |
-    <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" alt="Premier Pro" width="40" height="40"></a> Premier Pro |
-    <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"></a> Figma |
-    <a href="https://www.gimp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40"></a> GIMP |
-    <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"></a> Git
+    <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"></a>
+    <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"></a>
+    <a href="https://developer.apple.com/xcode/"><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"></a> 
+    <a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"></a>
+    <a href="https://www.adobe.com/products/xd.html"><img src="https://github.com/devicons/devicon/blob/master/icons/adobexd/adobexd-plain.svg" alt="Adobe XD" width="40" height="40"></a>
+    <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" alt="Premier Pro" width="40" height="40"></a>
+    <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"></a>
+    <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"></a>
+    <a href="https://www.gimp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40"></a>
+    <a href="https://openai.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/chatgpt/chatgpt-original.svg" alt="ChatGPT" width="40" height="40"></a>
   </p>
 </div>
+
 
 
 ## Contact
