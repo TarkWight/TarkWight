@@ -1,28 +1,29 @@
 <div align="center">
   <h1>Greetings, I'm Arsentiy</h1>
-  <h3>Software Engineering Student</h3>
+  <h3 align="center">I'm a 21-year-old student at Tomsk State University, majoring in Software Engineering. Currently exploring iOS and web development while also teaching C++ programming.</h3>
 </div>
- 
-## About Me
-I'm a 21-year-old student at Tomsk State University, majoring in Software Engineering. Currently exploring iOS and web development while also teaching C++ programming.
+
+
 
 <div align="center">
   <h2>Languages I Use</h2>
   <p>
-    <a href="https://port70.net/~nsz/c/"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"></a>
-    <a href="http://www.cplusplus.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></a>
-    <a href="https://swift.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"></a>
-    <a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"></a>
-    <a href="https://www.ruby-lang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"></a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"></a>
-    <a href="https://html.spec.whatwg.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"></a>
+ </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+ <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
   </p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarkWight&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TarkWight&layout=compact" alt="Top Languages" />
     </a>
 </div>
+
+
 
 <div align="center">
   <h2>Tools and Software I Use</h2>
@@ -31,15 +32,19 @@ I'm a 21-year-old student at Tomsk State University, majoring in Software Engine
     <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"></a>
     <a href="https://developer.apple.com/xcode/"><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"></a>
     <a href="https://developer.android.com/studio"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android Studio" width="40" height="40"></a>
-        <a href="https://unity.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity Engine" width="40" height="40"></a>
-        <a href="https://www.unrealengine.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"></a>
-    <a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"></a>
-    <a href="https://www.adobe.com/products/xd.html"><img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="Adobe XD" width="40" height="40"></a>
+     <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>
+     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+      <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
+        <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+         <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premier Pro" width="40" height="40"></a>
-        <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"></a>
-        <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"></a>
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+          <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.autodesk.com/products/maya/overview"><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" alt="Maya" width="40" height="40"></a>
-    <a href="https://www.blender.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"></a>
+     </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
     <a href="https://www.gimp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40"></a>  
   </p>
 </div>
@@ -47,20 +52,13 @@ I'm a 21-year-old student at Tomsk State University, majoring in Software Engine
 <div align="center">
   <h2>Languages I Want to Learn</h2>
   <p>
-    <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"></a>
-    <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   </p>
 </div>
 
-<div align="center">
-  <h2 align="center">Frameworks and Tools I Plan to Learn</h2>
-  <ul align="left">
-    <li><a href="https://realm.io/">Realm</a> - Mobile database and synchronization platform.</li>
-    <li><a href="https://developer.apple.com/documentation/coredata">Core Data</a> - Apple's framework for managing the model layer of your application.</li>
-    <li><a href="https://dotnet.microsoft.com/apps/aspnet">ASP.NET</a> - Microsoft's platform for building web applications.</li>
-    <li><a href="https://www.rhino3d.com/">Rhino 7</a> - 3D modeling and design software.</li>
-  </ul>
-</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -70,3 +68,8 @@ I'm a 21-year-old student at Tomsk State University, majoring in Software Engine
 
 ## Contact
 Feel free to reach out to me on [Telegram](https://t.me/Arsentiy_Gonda) or via email at arsentiy.gonda@gmail.com.
+<p align="left">
+<a href="https://stackoverflow.com/users/17125671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17125671" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tarkwight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarkwight" height="30" width="40" /></a>
+<a href="https://discord.gg/tark_wight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tark_wight" height="30" width="40" /></a>
+</p>
