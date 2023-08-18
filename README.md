@@ -1,14 +1,10 @@
 <div align="center">
   <h1>Greetings, I'm Arsentiy</h1>
-  <h3>Student and Software Engineer</h3>
-  <img src="ссылка_на_ваше_изображение" alt="Your Alt Text">
+  <h3>Software engineering student</h3>
 </div>
 
 ## About Me
-Привет! Меня зовут Arsentiy. Я студент и программист, увлеченный созданием программных решений.
-
-## Projects
-На данный момент нет активных проектов.
+ I'm a 21-year-old student at Tomsk State University, majoring in Software Engineering. Currently exploring iOS and web development while also teaching C++ programming.
 
 <div align="center">
   <h2>Languages I Use</h2>
