@@ -2,7 +2,7 @@
   <h1>Greetings, I'm Arsentiy</h1>
   <h3>Software Engineering Student</h3>
 </div>
-
+ 
 ## About Me
 I'm a 21-year-old student at Tomsk State University, majoring in Software Engineering. Currently exploring iOS and web development while also teaching C++ programming.
 
