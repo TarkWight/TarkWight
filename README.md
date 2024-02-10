@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Greetings, I'm Arsentiy</h1>
-  <h3 align="center">I'm a 21-year-old student at Tomsk State University, majoring in Software Engineering. Currently exploring iOS and web development while also teaching C++ programming.</h3>
+  <h3 align="center">I'm a 22-year-old student at Tomsk State University, majoring in Software Engineering. Currently exploring iOS and web development while also teaching C++ programming.</h3>
 </div>
 
 
