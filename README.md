@@ -52,6 +52,7 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"></a>
+    <a href="https://1c.ru/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/1C_Company_logo.svg" alt="1C" width="40" height="40"/></a>
     <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Macosx_data_coredata_20090925.png" alt="CoreData" width="40" height="40"></a>
   </p>
 </div>
