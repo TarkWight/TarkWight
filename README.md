@@ -25,10 +25,7 @@
 </div>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats-tarkwights-projects.vercel.app/api/top-langs/?username=TarkWight&layout=donut-vertical&langs_count=20&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats-tarkwights-projects.vercel.app/api/top-langs/?username=TarkWight&layout=donut-vertical&langs_count=20&hide_border=true&theme=nord" alt="Top Languages"/>
 </div>
 
 <div align="center">
