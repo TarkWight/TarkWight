@@ -40,7 +40,7 @@
       <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="CMake" width="40" height="40"/>
     </a>
     <a href="https://doc.rust-lang.org/cargo/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Cargo" width="40" height="40"/>
+      <img src="./assets/cargo.png" alt="Cargo" width="40" height="40"/>
     </a>
     <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Macosx_data_coredata_20090925.png" alt="CoreData" width="40" height="40"/>
@@ -66,31 +66,31 @@
 <div align="center">
   <h2>Development Tools</h2>
   <p>
-    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer";">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
     </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
     </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
     </a>
-    <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/330587/ida.svg" alt="IDA Pro" width="40" height="40"/>
+   <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer">
+    <img src="./assets/ida.png" alt="IDA Pro" width="40" height="40"/>
     </a>
     <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.svg" alt="Wireshark" width="40" height="40"/>
+      <img src="./assets/wireshark.png" alt="Wireshark" width="40" height="40"/>
     </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
     </a>
-    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
     </a>
-    <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
+    <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://www.svgrepo.com/show/373541/cuda.svg" alt="CUDA" width="40" height="40"/>
     </a>
-    <a href="https://1c.ru/" target="_blank" rel="noreferrer">
+    <a href="https://1c.ru/" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/1C_Company_logo.svg" alt="1C" width="40" height="40"/>
     </a>
   </p>
