@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-tarkwights-projects.vercel.app/api/top-langs/?username=TarkWight&layout=donut-vertical&langs_count=20&hide_border=true&theme=nord" alt="Top Languages"/>
+  <img src="https://github-readme-stats-tarkwights-projects.vercel.app/api/top-langs/?username=TarkWight&layout=donut-vertical&langs_count=20&hide_border=true&theme=nord&cache_seconds=172800" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -64,7 +64,7 @@
 <div align="center">
   <h2>Development Tools</h2>
   <p>
-    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer";">
+    <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
     </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
